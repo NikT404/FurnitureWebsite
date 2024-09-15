@@ -69,7 +69,7 @@ const handlesubmit= async()=>{
                 <div className="form-group row">
                   <div className="col-md-6">
                     <label htmlFor="c_fname" className="text-black">
-                      First Name <span className="text-danger">Utkarsh </span>
+                      First Name <span className="text-danger">*</span>
                     </label>
                     <input
                    
@@ -83,7 +83,7 @@ const handlesubmit= async()=>{
                   </div>
                   <div className="col-md-6">
                     <label htmlFor="c_lname" className="text-black">
-                      Last Name <span className="text-danger">Singh</span>
+                      Last Name <span className="text-danger">*</span>
                     </label>
                     <input
                      onChange={(e)=>handlechange(e)}
@@ -164,7 +164,7 @@ const handlesubmit= async()=>{
                 <div className="form-group row mb-5">
                   <div className="col-md-6">
                     <label htmlFor="c_email_address" className="text-black">
-                      Email Address <span className="text-danger">nikhilsinghrajawat0@gmail.com</span>
+                      Email Address <span className="text-danger">*</span>
                     </label>
                     <input
                     value={formdata["email"]}
@@ -177,7 +177,7 @@ const handlesubmit= async()=>{
                   </div>
                   <div className="col-md-6">
                     <label htmlFor="c_phone" className="text-black">
-                      Phone <span className="text-danger">9351571387</span>
+                      Phone <span className="text-danger">*</span>
                     </label>
                     <input
                     value={formdata["phoneNo"]}
