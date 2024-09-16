@@ -69,7 +69,7 @@ function ContactForm() {
                       </div>{" "}
                       {/* /.icon */}
                       <div className="service-contents">
-                        <p>43 Raymouth Rd. Baltemoer, London 3910</p>
+                        <p>G-108 indra nagar jhalana doongari jaipur</p>
                       </div>{" "}
                       {/* /.service-contents*/}
                     </div>{" "}
@@ -95,7 +95,7 @@ function ContactForm() {
                       </div>{" "}
                       {/* /.icon */}
                       <div className="service-contents">
-                        <p>info@yourdomain.com</p>
+                        <p>nikhilsinghrajawat0.com</p>
                       </div>{" "}
                       {/* /.service-contents*/}
                     </div>{" "}
@@ -124,7 +124,7 @@ function ContactForm() {
                       </div>{" "}
                       {/* /.icon */}
                       <div className="service-contents">
-                        <p>+1 294 3925 3939</p>
+                        <p>+91 9351571387</p>
                       </div>{" "}
                       {/* /.service-contents*/}
                     </div>{" "}

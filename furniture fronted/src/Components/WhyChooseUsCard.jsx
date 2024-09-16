@@ -23,14 +23,11 @@ function WhyChooseUsCard() {
                 </p>
               </div>
             </div> */}
-            <Sh one ={{icon:"images/truck.svg",title:"Fast Free Shipping",description:"Donec vitae odio quis nisl dapibus malesuada. Nullam ac iquet velit. Aliquam vulputate"}}/>
-            <Sh one ={{icon:"images/bag.svg",title:"Easy to Shop",description:"Donec vitae odio quis nisl dapibus malesuada. Nullam ac iquet velit. Aliquam vulputate"}}/>
-            <Sh one ={{icon:"images/support.svg",title:"24/7 Support",description:"Donec vitae odio quis nisl dapibus malesuada. Nullam ac iquet velit. Aliquam vulputate"}}/>
-            <Sh one ={{icon:"images/return.svg",title:"Hassle Free Returns",description:"Donec vitae odio quis nisl dapibus malesuada. Nullam ac iquet velit. Aliquam vulputate"}}/>
-            <Sh one ={{icon:"images/truck.svg",title:"Fast Free Shipping",description:"Donec vitae odio quis nisl dapibus malesuada. Nullam ac iquet velit. Aliquam vulputate"}}/>
-            <Sh one ={{icon:"images/bag.svg",title:"Easy to Shop",description:"Donec vitae odio quis nisl dapibus malesuada. Nullam ac iquet velit. Aliquam vulputate"}}/>
-            <Sh one ={{icon:"images/support.svg",title:"24/7 Support",description:"Donec vitae odio quis nisl dapibus malesuada. Nullam ac iquet velit. Aliquam vulputate"}}/>
-            <Sh one ={{icon:"images/return.svg",title:"Hassle Free Returns",description:"Donec vitae odio quis nisl dapibus malesuada. Nullam ac iquet velit. Aliquam vulputate"}}/>
+            <Sh one ={{icon:"images/truck.svg",title:"Fast Free Shipping",description:"Enjoy fast and free shipping on every order, bringing comfort and style to your home without the wait."}}/>
+            <Sh one ={{icon:"images/bag.svg",title:"Easy to Shop",description:"Discover a seamless shopping experience—easy navigation, effortless checkout, and everything you need just a click away"}}/>
+            <Sh one ={{icon:"images/support.svg",title:"24/7 Support",description:"Transform your home with stylish, modern furniture designed for comfort and elegance. Find the perfect piece to elevate every room."}}/>
+            <Sh one ={{icon:"images/return.svg",title:"Hassle Free Returns",description:"Shop with confidence—our hassle-free returns ensure a smooth and easy process, so you can find the perfect fit without the worry."}}/>
+            
            
             
            
