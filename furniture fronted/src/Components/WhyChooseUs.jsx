@@ -24,8 +24,7 @@ function WhyChooseUs() {
                     </div>
                     <h3>Fast &amp; Free Shipping</h3>
                     <p>
-                      Donec vitae odio quis nisl dapibus malesuada. Nullam ac
-                      aliquet velit. Aliquam vulputate.
+                      "Enjoy fast and free shipping on every order, bringing comfort and style to your home without the wait."
                     </p>
                   </div>
                 </div>
@@ -40,8 +39,7 @@ function WhyChooseUs() {
                     </div>
                     <h3>Easy to Shop</h3>
                     <p>
-                      Donec vitae odio quis nisl dapibus malesuada. Nullam ac
-                      aliquet velit. Aliquam vulputate.
+                      "Discover a seamless shopping experience—easy navigation, effortless checkout, and everything you need just a click away."
                     </p>
                   </div>
                 </div>
@@ -56,8 +54,7 @@ function WhyChooseUs() {
                     </div>
                     <h3>24/7 Support</h3>
                     <p>
-                      Donec vitae odio quis nisl dapibus malesuada. Nullam ac
-                      aliquet velit. Aliquam vulputate.
+                      "Transform your home with stylish, modern furniture designed for comfort and elegance. Find the perfect piece to elevate every room."
                     </p>
                   </div>
                 </div>
@@ -72,8 +69,7 @@ function WhyChooseUs() {
                     </div>
                     <h3>Hassle Free Returns</h3>
                     <p>
-                      Donec vitae odio quis nisl dapibus malesuada. Nullam ac
-                      aliquet velit. Aliquam vulputate.
+                      "Shop with confidence—our hassle-free returns ensure a smooth and easy process, so you can find the perfect fit without the worry."
                     </p>
                   </div>
                 </div>

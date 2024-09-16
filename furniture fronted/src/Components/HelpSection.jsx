@@ -24,16 +24,13 @@ function HelpSection() {
                 We Help You Make Modern Interior Design
               </h2>
               <p>
-                Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio
-                quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam
-                vulputate velit imperdiet dolor tempor tristique. Pellentesque
-                habitant morbi tristique senectus et netus et malesuada
+                Our solutions make it easy to bring modern interior design to life. We offer seamless processes that simplify even the most complex design projects. Whether you're starting fresh or renovating, we provide expert guidance every step of the way. Our designs are tailored to meet your unique needs, ensuring a stylish and functional space.
               </p>
               <ul className="list-unstyled custom-list my-4">
-                <li>Donec vitae odio quis nisl dapibus malesuada</li>
-                <li>Donec vitae odio quis nisl dapibus malesuada</li>
-                <li>Donec vitae odio quis nisl dapibus malesuada</li>
-                <li>Donec vitae odio quis nisl dapibus malesuada</li>
+                <li>Modern Interior Designs – We create stylish, modern spaces that look great and work well.</li>
+                <li>Easy Process – We make the design process simple, helping you transform your space without stress.</li>
+                <li>Up-to-date Trends – We use the latest design ideas and tools to make sure your space is modern.</li>
+                <li>On-time Delivery – We finish projects efficiently, ensuring everything is done on time.</li>
               </ul>
               <p>
                 <a herf="#" className="btn">
