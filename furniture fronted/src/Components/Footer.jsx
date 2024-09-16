@@ -48,16 +48,16 @@ function Footer() {
           <div className="row g-5 mb-5">
             <div className="col-lg-4">
               <div className="mb-4 footer-logo-wrap">
-                <a href="#" className="footer-logo">
+                {/* <a href="#" className="footer-logo">
                   Furni<span>.</span>
-                </a>
+                </a> */}
               </div>
-              <p className="mb-4">
+              {/* <p className="mb-4">
                 Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio
                 quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam
                 vulputate velit imperdiet dolor tempor tristique. Pellentesque
                 habitant
-              </p>
+              </p> */}
               <ul className="list-unstyled custom-social">
                 <li>
                   <a href="#">
