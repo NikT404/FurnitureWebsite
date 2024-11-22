@@ -88,7 +88,7 @@ function CartPage() {
                       <span className="text-black">Subtotal</span>
                     </div>
                     <div className="col-md-6 text-right">
-                      <strong className="text-black">${cartsum}</strong>
+                      <strong className="text-black">{cartsum}</strong>
                     </div>
                   </div>
                   <div className="row mb-5">
@@ -96,7 +96,7 @@ function CartPage() {
                       <span className="text-black">Total</span>
                     </div>
                     <div className="col-md-6 text-right">
-                      <strong className="text-black">${cartsum}</strong>
+                      <strong className="text-black">{cartsum}</strong>
                     </div>
                   </div>
                   <div className="row">
