@@ -36,7 +36,7 @@ const orderschema = new Schema({
         productImage: String,
         productName: String,
         productPrice: Number,
-        pQuantity: Number,
+        pQuantity: String,
       },
     ]
   })
